@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amoghak-ds
-- 👀 I’m interested in working with Data 
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in working with Data and Cloud Computing
+- 🌱 I’m currently learning Data Science and AWS
 - 💞️ I’m looking to collaborate on any real time projects
 - 📫 How to reach me amoghakancharla@gmail.com
 
