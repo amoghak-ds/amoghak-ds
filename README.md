@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amoghakancharla@gmail.com**
 
-- ⚡ Fun fact **I like coffee chats**
+- ⚡ Fun fact: **I like coffee chats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
