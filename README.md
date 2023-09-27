@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amogha Kancharla</h1>
 <h3 align="center">A fervent tech-enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **Building Data Pipelines**
+- 🔭 I’m currently **Building Data Pipelines**
 
 - 🌱 I’m currently learning **AWS, DevOps, ML**
 
