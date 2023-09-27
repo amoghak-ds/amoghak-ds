@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on any real time projects
 - 📫 How to reach me amoghakancharla@gmail.com
 
-- 
-  (https://holopin.me/amoghakds)](https://holopin.io/@amoghakds)
+- https://holopin.io/@amoghakds
 
 <!---
 amoghak-ds/amoghak-ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
