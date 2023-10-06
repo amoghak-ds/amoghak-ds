@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogha Kancharla</h1>
-<h3 align="center"> Fervent tech enthusiast who loves to explore advancements in the digital realm.</h3>
+<h3 align="center"> Fervent tech enthusiast who loves to explore latest advancements in the digital realm </h3>
 
 <p align="left"> <a href="https://twitter.com/amoghak17" target="blank"><img src="https://img.shields.io/twitter/follow/amoghak17?logo=twitter&style=for-the-badge" alt="amoghak17" /></a> </p>
 
