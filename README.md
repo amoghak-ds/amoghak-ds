@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amogha Kancharla</h1>
-<h3 align="center"> Fervent tech enthusiast who loves to explore latest advancements in the digital realm. Connect with me:  </h3>
+<h3 align="center"> Fervent tech enthusiast who loves to explore the latest advancements in the digital realm. Connect with me:  </h3>
+ [![Linkedin Badge](https://img.shields.io/badge/-amoghakancharla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoghakancharlla)] 
+  (https://www.linkedin.com/in/amoghakancharla/) 
+ [![Hashnode Badge](https://img.shields.io/badge/-@amoghakancharla-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://amoghakancharla.hashnode.dev/)](https://amoghakancharla.hashnode.dev/)
+ [![Gmail Badge](https://img.shields.io/badge/-amoghakancharla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amoghakancharla@gmail.com)](mailto:amoghakancharla@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-amoghakancharla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoghakancharlla)](https://www.linkedin.com/in/amoghakancharla/) 
-[![Hashnode Badge](https://img.shields.io/badge/-@amoghakancharla-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://amoghakancharla.hashnode.dev/)](https://amoghakancharla.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-amoghakancharla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amoghakancharla@gmail.com)](mailto:amoghakancharla@gmail.com)
-
-- [![Amogha's  github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amoghak-ds&theme=dracula)](https://github.com/amoghak-ds/github-readme-activity-graph)
+ [![Amogha's  github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amoghak-ds&theme=dracula)](https://github.com/amoghak-ds/github-readme-activity-graph)
 
 - 🔭 I’m currently **Building Data Pipelines**
 
@@ -18,16 +18,17 @@
 - 💬 Ask me about **Open Source, AWS, Cloud-Native**
 
 - ⚡ Fun fact: **I like coffee chats**
- 
- [![An image of @amoghakds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amoghakds)](https://holopin.io/@amoghakds)
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+ [![An image of @amoghakds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amoghakds)](https://holopin.io/@amoghakds)
 
  ## 📈 GitHub Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amoghak-ds&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user= amoghak-ds&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghak-ds&theme=tokyonight" />
 </p>
 
  
