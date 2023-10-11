@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amogha Kancharla</h1>
 <h3 align="center"> Fervent tech enthusiast who loves to explore the latest advancements in the digital realm. Connect with me:  </h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-amoghakancharla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoghakancharlla)] 
 (https://www.linkedin.com/in/amoghakancharla/) 
 [![Hashnode Badge](https://img.shields.io/badge/-@amoghakancharla-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://amoghakancharla.hashnode.dev/)](https://amoghakancharla.hashnode.dev/)
