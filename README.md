@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **I like coffee chats**
 
--  I write here **https://amoghak17.hashnode.dev/**
+-   I write here:  **https://amoghak17.hashnode.dev/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
