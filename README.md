@@ -18,6 +18,7 @@
 - 📫 How to reach me **amoghakancharla@gmail.com**
 
 - ⚡ Fun fact: **I like coffee chats**
+- [![Amogha's  github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amoghak-ds&theme=dracula)](https://github.com/amoghak-ds/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
