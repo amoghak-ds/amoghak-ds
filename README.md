@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amogha Kancharla</h1>
 <h3 align="center"> Fervent tech enthusiast who loves to explore the latest advancements in the digital realm. </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amoghak17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amoghak17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/amoghakancharla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/amoghakancharla" height="30" width="40" /></a>
-<a href="https://discord.gg/amoghak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amoghak_" height="30" width="40" /></a>
-<a href="/https://hashnode.com/@amoghak17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@amoghak17" height="30" width="40" /></a>
-</p>
-
-
 - 🔭 I’m currently **Building Data Pipelines**
 
 - 🌱 I’m currently learning **AWS, DevOps, ML**
@@ -23,6 +14,14 @@
 - ⚡ Fun fact: **I like coffee chats**
 
 -  I write here **https://amoghak17.hashnode.dev/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/amoghak17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amoghak17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/amoghakancharla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/amoghakancharla" height="30" width="40" /></a>
+<a href="https://discord.gg/amoghak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amoghak_" height="30" width="40" /></a>
+<a href="/https://hashnode.com/@amoghak17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@amoghak17" height="30" width="40" /></a>
+</p>
 
 
  [![Amogha's  github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amoghak-ds&theme=dracula)](https://github.com/amoghak-ds/github-readme-activity-graph)
