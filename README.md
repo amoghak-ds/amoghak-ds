@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogha Kancharla</h1>
-<h3 align="center"> Fervent tech enthusiast who loves to explore the latest advancements in the digital realm. </h3>
+<h3 align="center"> Fervent tech enthusiast, loves to explore the latest advancements in the digital realm. </h3>
 
 
 
